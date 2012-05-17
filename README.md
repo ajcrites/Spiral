@@ -1,4 +1,4 @@
-#Spiral -- the simple spiral printer
+#Spiral -- the simple spiral printer (0.0)
 
 Spiral is nothing more than a proof-of-concept.  It prints a spiral of integers in the shape of a square using PHP.
 
